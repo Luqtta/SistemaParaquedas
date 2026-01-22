@@ -59,6 +59,10 @@ UseUpString:
   Enabled: false
   Amount: 10
 ```
+---
 
-https://github.com/user-attachments/assets/39ab2bf7-ded1-4919-a316-8041e02b1df2
-  
+## 📷 Preview
+
+https://github.com/user-attachments/assets/768d8cb8-3f77-4542-8302-325674d8adee
+
+
