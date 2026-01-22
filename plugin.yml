@@ -1,0 +1,9 @@
+name: SistemaParaquedas
+main: me.avelar.paraquedas.ParaquedasDriver
+version: 2.0
+author: Avelar
+description: Sistema de paraquedas (cda)
+commands:
+  paraquedas:
+    aliases: [paraqueda, parachute]
+    description: Paraquedas Comandos
